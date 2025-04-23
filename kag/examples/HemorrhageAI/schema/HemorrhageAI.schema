@@ -1,0 +1,12 @@
+namespace HemorrhageAI
+
+Symptom(症状): EntityType
+  properties:
+    definition(定义): Text
+
+Disease(疾病): EntityType
+  properties:
+    definition(定义): Text
+  relations:
+    hasSymptom(具有症状): Symptom
+

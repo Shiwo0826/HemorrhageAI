@@ -1,0 +1,19 @@
+{"id": "7f33f220dfd80f912f534260bd280e2b66793880b665811078f7eb11089ed138", "value": {"abstract": {"id": "1", "name": "脑出血", "definition": "脑出血（cerebr"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "37382adbad6a05c06cd62933aa8d9105f35f0c11f54e3b1b55770d30c8c3d703", "value": {"abstract": {"id": "1", "name": "面目或四肢麻木", "definition": "nan"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "84d49ded1a1d245c3de649e4ade50d9701ef03d64973e2d6e1995af3521ceeb0", "value": {"abstract": {"id": "2", "name": "头痛", "definition": "头痛（英语：head"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "ad8e7f73d17b40b5b5e63dd93f670adb880a56cb2266477a9b596412d131b996", "value": {"abstract": {"id": "3", "name": "轻偏瘫", "definition": "轻偏瘫（英语：Hem"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "5b33309e2d3b54164a3c8dc22689a9335ba908af34c13d5847fcce79aa91f143", "value": {"abstract": {"id": "4", "name": "呕吐", "definition": "呕吐是一种复杂的生理"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "1322e7187ab38eecf7054d04906f1bb5ad74c636cd1c4629ba34f487304e118f", "value": {"abstract": {"id": "5", "name": "癫痫发作", "definition": "癫痫发作（epile"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "62268ea39101507c808c8df9f8660ef270c3e8b925b8a808616d415d12f1a2f9", "value": {"abstract": {"id": "6", "name": "颈部僵硬", "definition": "nan"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "f1eaf6dd8d6a5ffadffccd49d11a07cb008b68069a2175b008f7648b0054f330", "value": {"abstract": {"id": "7", "name": "发热", "definition": "发热（英语：feve"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "0b998a07499702e8d2023255b7b5ec54e9001109f57627d23921534e23ad46f6", "value": {"abstract": {"id": "8", "name": "肢体无力", "definition": "nan"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "ea112b32416a6893a5a122e98f1775cab357b716a598ffe7a38c25b49dbb7fb5", "value": {"abstract": {"id": "9", "name": "头晕", "definition": "头晕（dizzine"}, "graph_stat": {"num_nodes": 1, "num_edges": 0, "num_subgraphs": 1}}}
+{"id": "5b179fedf07af255fc40305d6fdba4879f89db4a43e710f2992f0c59431820d8", "value": {"abstract": {"src": "1", "dst": "1"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "c7aa858663746eef1ad7e8719d5015d6e7e3d39c1c1569ce330181059e6ba019", "value": {"abstract": {"src": "1", "dst": "2"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "b65a3b03fa6b43a248d7fd50f0892d68ebed4d180c4aebfdf7c5c54b9eac6ffc", "value": {"abstract": {"src": "1", "dst": "3"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "06d2d50d3d182e2ba6daf52885be660d5353a044084cc90522c875bebdbb07ae", "value": {"abstract": {"src": "1", "dst": "4"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "b6db189248dbc6f500d69d766e4e0226452508aa46131ecddac8a56b7dc7d95a", "value": {"abstract": {"src": "1", "dst": "5"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "9bab74618a9173cfcb9167fd1b269dfb3bd83da8447ec60f263cd304b40ef04a", "value": {"abstract": {"src": "1", "dst": "6"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "ffa7be53417a2930ae3e4ff528d75f1a80c5483d46361027e6876bfd5a96faf2", "value": {"abstract": {"src": "1", "dst": "7"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "281e2e88b31b752bb86094289e5d94bbb1b7dd39fda2877346f45beab4023def", "value": {"abstract": {"src": "1", "dst": "8"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
+{"id": "8af67e2ab141b638cba9c134c442ce7127894c7d167a50cda0e35b57aa24b756", "value": {"abstract": {"src": "1", "dst": "9"}, "graph_stat": {"num_nodes": 0, "num_edges": 1, "num_subgraphs": 1}}}
